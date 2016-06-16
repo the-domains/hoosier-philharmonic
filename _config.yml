@@ -1,0 +1,28 @@
+name: HOOSIER PHILHARMONIC
+favicon: null
+layout_spectrum: 0.2109986508730799
+typography_spectrum: 0.3566978396847844
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.16889899503439665
+  lightness: 0.08165491605177522
+  saturation: 0.19200912211090326
+  rhythmicContrast: 0.8066859690006822
+purpose: []
